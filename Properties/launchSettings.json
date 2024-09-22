@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ST102455631": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7273",
+      "launchBrowser": false
+    }
+  }
+}
